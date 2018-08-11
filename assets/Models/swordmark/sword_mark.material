@@ -1,0 +1,64 @@
+
+// blender material: sword
+material sword 
+{
+    receive_shadows on
+    technique b2ogre_1331219939.67616
+    {
+        pass b2ogre_1331219939.676221
+        {
+            ambient 0.25 0.25 0.25 1.0
+            diffuse 0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0
+            specular 0.0 0.0 0.0 1.0 12.5
+            emissive 0.0 0.0 0.0 1.0
+            alpha_to_coverage off
+            colour_write on
+            cull_hardware clockwise
+            depth_check on
+            depth_func less_equal
+            depth_write on
+            illumination_stage 
+            light_clip_planes off
+            light_scissor off
+            lighting on
+            normalise_normals off
+            polygon_mode solid
+            scene_blend one zero
+            scene_blend_op add
+            shading gouraud
+            transparent_sorting on
+            texture_unit b2ogre_1331219939.67691
+            {
+                texture sword_diff.jpg
+                tex_address_mode wrap
+                scale 1.0 1.0
+                tex_coord_set 0
+                colour_op replace
+            }
+            texture_unit b2ogre_1331219939.678352
+            {
+                texture sword_norm.jpg
+                tex_address_mode wrap
+                scale 1.0 1.0
+                tex_coord_set 0
+                colour_op replace
+            }
+            texture_unit b2ogre_1331219939.679387
+            {
+                texture sword_spec.jpg
+                tex_address_mode wrap
+                scale 1.0 1.0
+                tex_coord_set 0
+                colour_op replace
+            }
+            texture_unit b2ogre_1331219939.680208
+            {
+                texture sword_ao.jpg
+                tex_address_mode wrap
+                scale 1.0 1.0
+                tex_coord_set 0
+                colour_op modulate
+            }
+        }
+    }
+}
