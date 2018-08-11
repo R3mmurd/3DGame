@@ -15,4 +15,4 @@ Computer Graphics at Universidad de Los Andes, Mérida-Venezuela by GSD team:
 Supported by:
 - [Donato Galo](https://www.linkedin.com/in/dgalo88/)
 - [Rafael Solorzano](https://www.linkedin.com/in/rafael-solorzano-bb196149/)
-- [Javier Rennola](https://www.linkedin.com/in/javier-rennola-b8b11098/
+- [Javier Rennola](https://www.linkedin.com/in/javier-rennola-b8b11098/)
