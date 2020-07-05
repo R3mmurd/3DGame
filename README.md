@@ -10,12 +10,9 @@ at Universidad de Los Andes, Mérida, Venezuela by GSD team.
 
 ## Credits
 
-- [Alejandro Mujica](https://www.linkedin.com/in/remmurd/): Project manager, developer, game AI.
-- [Anna Lezama](https://www.linkedin.com/in/annitap4/): Team manager, developer, game world.
-- [Miguel Flores](https://www.linkedin.com/in/miguel-flores-97001966/): Lead developer, cameras, scenes.
-- [Donato Galo](https://www.linkedin.com/in/dgalo88/): Developer.
-- [Rafael Solorzano](https://www.linkedin.com/in/rafael-solorzano-bb196149/): Developer
-- [Javier Rennola](https://www.linkedin.com/in/javier-rennola-b8b11098/): Developer.
+- [Alejandro Mujica](https://www.linkedin.com/in/remmurd/): Developer, game AI.
+- [Anna Lezama](https://www.linkedin.com/in/annitap4/): Developer, game world.
+- [Miguel Flores](https://www.linkedin.com/in/miguel-flores-97001966/): Developer, cameras, scenes.
 
 ## Demo
 
